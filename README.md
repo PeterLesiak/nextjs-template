@@ -4,6 +4,6 @@
 pnpm install
 
 pnpm dev
-
-# open app on http://localhost:3000
 ```
+
+**Now check <http://localhost:3000>**
